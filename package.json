@@ -1,0 +1,29 @@
+{
+  "name": "transpose-matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydaro/transpose-matrix.git"
+  },
+  "keywords": [
+    "transpose",
+    "array",
+    "rotate",
+    "matrix"
+  ],
+  "author": "Jay Hamilton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaydaro/transpose-matrix/issues"
+  },
+  "homepage": "https://github.com/jaydaro/transpose-matrix#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.0"
+  }
+}
